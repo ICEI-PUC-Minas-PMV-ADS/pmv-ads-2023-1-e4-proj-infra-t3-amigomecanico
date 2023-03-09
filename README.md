@@ -1,23 +1,26 @@
-# TÍTULO DO PROJETO
+# Amigo Mecânico
 
-`CURSO`
+`ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de uma Aplicação Distribuída`
 
-`SEMESTRE`
+`2023.01`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O sistema _AMIGO MECÂNICO_ visa atender uma necessidade que todos os donos de um veículo, ou pessoas que trabalham com tal, tem: agendamento de visita técnica no mecânico e visualização do status de tal atendimento _de forma virtual_. Economizando o tempo de ambas as partes.
+
+
+Necessidade de um app para verificar disponibilidade do mecânico para resolver o problema do carro do usuário, se já existe a peça no lugar, etc. Será possível, também, verificar status do atendimento. Pegamos como exemplo o princípio de apps de comida, ex: iFood
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Jhonata Jackson Monteiro Motta
+* Kaio Henrik de Paula Silva
+* Meriane dos Reis Dias
+* Thiago Roberto de Souza
 
 ## Orientador
 
-* Nome completo do professor 1
+* Leonardo Vilela Cardoso
 
 ## Instruções de utilização
 
