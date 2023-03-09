@@ -8,9 +8,6 @@
 
 O sistema _AMIGO MECÂNICO_ visa atender uma necessidade que todos os donos de um veículo, ou pessoas que trabalham com tal, tem: agendamento de visita técnica no mecânico e visualização do status de tal atendimento _de forma virtual_. Economizando o tempo de ambas as partes.
 
-
-Necessidade de um app para verificar disponibilidade do mecânico para resolver o problema do carro do usuário, se já existe a peça no lugar, etc. Será possível, também, verificar status do atendimento. Pegamos como exemplo o princípio de apps de comida, ex: iFood
-
 ## Integrantes
 
 * Jhonata Jackson Monteiro Motta
