@@ -68,15 +68,26 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O sistema deve ter autenticação e controle de Acesso | ALTA |
+|RF-002| O sistema deve permitir o controle de acesso baseado em perfis de usuário | Alta |
+|RF-003| O sistema deve permitir o cadastro de mecânicos | Alta |
+|RF-004| O sistema deve permitir agendar serviço | Alta |
+|RF-005| O sistema deve permitir que os mecânicos visualizem os agendamentos | Alta |
+|RF-006| O sistema deve permitir que os mecânicos atualizem o status dos serviços em andamento | Alta |
+|RF-007| O sistema deve permitir que os clientes visualizem o status dos serviços agendados e recebam notificações sobre alterações no status. | Média |
+|RF-008| O sistema deve permitir a venda de produtos pela aplicação. | Alta |
+|RF-009| O sistema deve permitir que os mecânicos cadastrem os produtos disponíveis e os preços. | Alta |
+|RF-010| O sistema deve permitir que os clientes adicionem produtos ao carrinho de compras, informem o endereço de entrega e realizem o pagamento pela aplicação. | Alta |
+|RF-011| O sistema deve permitir que os mecânicos gerem relatórios de vendas, agendamentos e serviços concluídos. | Média |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O sistema deve ser fácil de usar e intuitivo para os usuários | Média |
+|RNF-002| O sistema deve garantir a privacidade das informações dos usuários e a proteção contra ataques externos |  Alta |
+|RNF-003| O sistema deve garantir um tempo de resposta rápido para as ações do usuário | Média |
+|RNF-004| O sistema deve ser conter a sua versão web e mobile | Alta |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
