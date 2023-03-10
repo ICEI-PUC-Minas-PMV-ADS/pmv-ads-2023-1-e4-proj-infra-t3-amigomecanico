@@ -6,7 +6,7 @@
 
 `2023.01`
 
-O sistema _AMIGO MECÂNICO_ visa atender uma necessidade que todos os donos de um veículo, ou pessoas que trabalham com tal, tem: agendamento de visita técnica no mecânico e visualização do status de tal atendimento _de forma virtual_. Economizando o tempo de ambas as partes.
+O sistema _AMIGO MECÂNICO_ visa atender uma necessidade que todos os donos de um veículo, ou pessoas que trabalham com tal, tem: agendamento de visita técnica no mecânico e visualização do status de tal atendimento _de forma virtual_, economizando o tempo de ambas as partes.
 
 ## Integrantes
 
