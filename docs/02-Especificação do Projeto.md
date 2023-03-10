@@ -8,19 +8,12 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+> Maria, 35 anos, trabalha como gerente de projetos em uma empresa de tecnologia.
+Maria trabalha como gerente de projetos em uma empresa de tecnologia e depende de seu carro para se deslocar diariamente para o trabalho. Ela é uma pessoa ocupada e ativa, que valoriza muito o seu tempo e quer garantir que o seu carro esteja sempre em perfeito estado de funcionamento.
+Maria precisa encontrar tempo em sua agenda lotada para agendar as manutenções regulares e eventuais reparos em seu carro. Ela muitas vezes acaba deixando a manutenção para depois, o que pode resultar em problemas mecânicos inesperados e caros.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+> Carlos, 50 anos, autônomo, dono de uma pequena empresa de transporte. Carlos é dono de uma pequena empresa de transporte e depende de seus veículos para manter o negócio em funcionamento. Ele é um empresário ocupado e responsável, que está sempre procurando maneiras de melhorar a eficiência de sua empresa e reduzir os custos. Ele tem pouco conhecimento técnico em mecânica, mas sabe que manter seus veículos em boas condições é fundamental para o sucesso de sua empresa. Carlos precisa garantir que seus veículos estejam sempre em perfeitas condições de funcionamento para evitar atrasos, custos com reparos emergenciais e perda de negócios. Ele muitas vezes tem dificuldade em encontrar tempo para agendar as manutenções e reparos necessários, já que está sempre ocupado gerenciando sua empresa.
 
 ## Histórias de Usuários
 
