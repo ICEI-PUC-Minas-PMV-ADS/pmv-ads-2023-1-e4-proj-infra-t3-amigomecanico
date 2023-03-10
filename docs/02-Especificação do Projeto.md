@@ -1,7 +1,5 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
 Neste documento será abordada uma extensão da descrição do projeto de acordo com a visão do usuário, por meio de histórias de usuários, assim como o público alvo, por meio das personas. Também serão abordados os a parte da estrutura do negócio, sendo: requisitos funcionais, não funcionais, restrições do projeto, modelagem do processo de negócio, indicadores de desempenho, diagrama de casos de uso, matriz de rastreabilidade e gerenciamento de projeto.
 
 ## Personas
