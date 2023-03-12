@@ -160,6 +160,6 @@ O processo de determinar o orçamento do projeto é uma tarefa que depende, alé
 
 ![Orçamento](img/gestaoOrcamento.PNG)
 
-•	Cálculos realizados considerando 850 horas de desenvolvimento.  
+•	Cálculos realizados considerando 1000 horas de desenvolvimento.  
 •	Cálculos realizados para o primeiro ano de produção, tendo em vista que os valores mensais e anuais de servidores e App Stores continuarão a serem cobrados.
 
