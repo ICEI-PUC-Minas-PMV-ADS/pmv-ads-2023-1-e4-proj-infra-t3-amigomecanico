@@ -4,12 +4,19 @@ Neste documento será abordada uma extensão da descrição do projeto de acordo
 
 ## Personas
 
-> Maria, 35 anos, trabalha como gerente de projetos em uma empresa de tecnologia.
-Maria trabalha como gerente de projetos em uma empresa de tecnologia e depende de seu carro para se deslocar diariamente para o trabalho. Ela é uma pessoa ocupada e ativa, que valoriza muito o seu tempo e quer garantir que o seu carro esteja sempre em perfeito estado de funcionamento.
+ Maria, 35 anos, trabalha como gerente de projetos em uma empresa de tecnologia, ela
+ depende de seu carro para se deslocar diariamente para o trabalho. Ela é uma pessoa ocupada e ativa, que valoriza muito o seu tempo e quer garantir que o seu carro esteja sempre em perfeito estado de funcionamento.
 Maria precisa encontrar tempo em sua agenda lotada para agendar as manutenções regulares e eventuais reparos em seu carro. Ela muitas vezes acaba deixando a manutenção para depois, o que pode resultar em problemas mecânicos inesperados e caros.
 
 
-> Carlos, 50 anos, autônomo, dono de uma pequena empresa de transporte. Carlos é dono de uma pequena empresa de transporte e depende de seus veículos para manter o negócio em funcionamento. Ele é um empresário ocupado e responsável, que está sempre procurando maneiras de melhorar a eficiência de sua empresa e reduzir os custos. Ele tem pouco conhecimento técnico em mecânica, mas sabe que manter seus veículos em boas condições é fundamental para o sucesso de sua empresa. Carlos precisa garantir que seus veículos estejam sempre em perfeitas condições de funcionamento para evitar atrasos, custos com reparos emergenciais e perda de negócios. Ele muitas vezes tem dificuldade em encontrar tempo para agendar as manutenções e reparos necessários, já que está sempre ocupado gerenciando sua empresa.
+ Carlos, 50 anos, autônomo, dono de uma pequena empresa de transporte, ele depende de seus veículos para manter o negócio em funcionamento. Ele é um empresário ocupado e responsável, que está sempre procurando maneiras de melhorar a eficiência de sua empresa e reduzir os custos. Ele tem pouco conhecimento técnico em mecânica, mas sabe que manter seus veículos em boas condições é fundamental para o sucesso de sua empresa. Carlos precisa garantir que seus veículos estejam sempre em perfeitas condições de funcionamento para evitar atrasos, custos com reparos emergenciais e perda de negócios. Ele muitas vezes tem dificuldade em encontrar tempo para agendar as manutenções e reparos necessários, já que está sempre ocupado gerenciando sua empresa.
+
+
+
+Flávio, 40 anos, é gerente de uma oficina de carros, como gestor está sempre buscando melhorar o sistema de atendimento ao cliente e também a eficiência dos trabalhos que são executados pelos mecânicos. Ele precisa melhorar o recebimento de pedidos de manutenção e também o tempo de resposta para os clientes que ficam constantemente ligando querendo uma resposta. Flávio gostaria de conhecer melhor os clientes podendo assim realizar um atendimento mais personalizado.
+
+
+Sergio é proprietário de uma pequena oficina mecânica, ele também é responsável pela parte de gerenciamento entre clientes e a equipe de manutenção. Ele gostaria de digitalizar os processos da sua oficina, com isso ganhando agilidade e qualidade com seus clientes evitando perda de prazos ou datas de entregas, ele também vê a oportunidade de melhorar a comunicação com seus clientes.
 
 ## Histórias de Usuários
 
