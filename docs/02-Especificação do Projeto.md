@@ -22,10 +22,12 @@ Sergio é proprietário de uma pequena oficina mecânica, ele também é respons
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`             |PARA ... `MOTIVO/VALOR`                                    |
+|--------------------|------------------------------------------------|-----------------------------------------------------------|
+| Cliente            | Pesquisar por tipos específicos de serviços    | Encontrar o mecânico mais adequado para minha necessidade |
+| Cliente            | Visualizar a disponibilidade de cada mecânico  | Para garantir o prazo de entrega acordado                 |
+| Administrador      | Enviar notificações para os clientes           | Para garantir que um atendimento eficiente                |
+| Administrador      | Permita acompanhar os pagamentos realizados    | Para garantir operações financeira segura e transparente  |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
